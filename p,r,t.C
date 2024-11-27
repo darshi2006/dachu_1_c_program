@@ -6,5 +6,6 @@ int main(void) {
   scanf("%f %f %f ",&p,&r,&t);
   i=(p*r*t)/100;
   printf("simple intrest=%.2f\n",i);
+printf("Darshan.M");
   return 0;
 }
