@@ -11,5 +11,6 @@ int main(){
   printf("Enter a number:");
   scanf("%d",&num);
   printf("Factorial=%d\n", factorial(num));
+  printf("Darshan.M");
   return 0;
   }
